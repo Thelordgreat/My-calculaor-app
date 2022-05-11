@@ -14,7 +14,7 @@ font-size: 25px;
 
 .buttons{
 display: grid;
-border-bottom: 1px solid
+border-bottom: 1px solid;
 border-left: 1px solid #999;
 grid-template-columns: 1fr 1fr 1fr 1fr;
 }
